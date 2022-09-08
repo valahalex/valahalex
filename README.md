@@ -6,7 +6,11 @@ I am passionate about testing and making a quality product. To automate the test
 - 👯 I like to find ways to solve various non-trivial problems in testing 
 - 📫 Being part of a team that is responsible for creating a quality product is really cool. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,git,githubactions,gherkin,sketchup,vscode&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,docker,git,githubactions,gherkin,sketchup,vscode" />
+  </a>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valahalex&layout=compact)
 
