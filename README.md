@@ -9,4 +9,4 @@ My name is Alex, and I'm passionate about Testing. To automate the testing proce
 - 📫 Being part of a team that is responsible for creating a quality product is really cool. 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valahalex&layout=compact)](https://github.com/valahalex/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valahalex&layout=compact)]
