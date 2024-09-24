@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+My+name+is+Alex+🙋‍♂️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+My+name+is+Oleksii+🙋‍♂️)](https://git.io/typing-svg)
 
 I am passionate about testing and making a quality product. To automate the testing process, I continue to learn programming languages such as Javascript and Typescript and find them incredibly interesting. Among other things, I'm hooked on frameworks like Playwright, WebdriverIo and Cypress. Awaysome things!
 
